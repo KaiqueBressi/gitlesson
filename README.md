@@ -5,4 +5,4 @@
 
 ## My First Branch
 
-- Hev is a not great guy
+- Hev is a great guy
